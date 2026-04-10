@@ -368,6 +368,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"Spring Batch를 쓰는 것과, Chunk 트랜잭션이 왜 그 경계에서 커밋되는지 아는 것은 다르다"*
+**"Spring Batch를 쓰는 것과, Chunk 트랜잭션이 왜 그 경계에서 커밋되는지 아는 것은 다르다"**
 
 </div>
